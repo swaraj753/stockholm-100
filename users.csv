@@ -1,0 +1,6 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+emmabostian,Emma Bostian,Company A,Stockholm,emma@example.com,True,Developer,5,200,50,2020-01-01
+emilk,Emil Karlsson,Company B,Stockholm,emil@example.com,False,Designer,10,150,40,2021-02-02
+mpj,MPJ,,Stockholm,,False,Developer,15,300,30,2019-03-03
+hrydgard,Hrydgard,Company C,Stockholm,hrydgard@example.com,True,,20,250,20,2018-04-04
+eriklindernoren,Erik Lindernoren,Company D,Stockholm,erik@example.com,True,Product Manager,25,100,10,2017-05-05
